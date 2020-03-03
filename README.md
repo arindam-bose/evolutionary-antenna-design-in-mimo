@@ -1,2 +1,7 @@
-# evolutionary-antennadesign-in-mimo
-Code for Joint Optimization of Waveform Covariance Matrix and Antenna Selection for MIMO Radar With Application to Aerial Drones
+# Joint Optimization of Waveform Covariance Matrix and Antenna Selection for MIMO Radar With Application to Aerial Drones
+
+Matlab code for paper: Joint Optimization of Waveform Covariance Matrix and Antenna Selection for MIMO Radar With Application to Aerial Drones
+
+Authors: [Arindam Bose](https://arindambose.com/), [Shahin Khobahi](https://khobahi.net), [Mojtaba Soltanalian](https://msol.people.uic.edu/)
+
+Current weblink: https://arxiv.org/abs/2002.06025
